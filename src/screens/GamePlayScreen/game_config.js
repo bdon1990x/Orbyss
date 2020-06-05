@@ -15,7 +15,7 @@ export default {
   left_offset,
   windowWidth: window.width,
   windowHeight: window.height,
-  removeOrbDuration: 5,
-  hpIndicatorDuration: 15,
-  hpBarDuration: 5,
+  removeOrbDuration: 10,
+  hpIndicatorDuration: 25,
+  hpBarDuration: 10,
 };
